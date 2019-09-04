@@ -4,6 +4,7 @@ Curso:
   POO 21
 Integrantes:
   Walter Saldaña #19897
+  Juan Marroquín #19845
   .
   .
   .
