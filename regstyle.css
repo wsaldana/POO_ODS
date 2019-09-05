@@ -2,7 +2,7 @@ body{
 	margin-top: 10px;
 	padding: 5px;
 	font-family: sans-serif;
-	background: lightgreen;
+	background: -webkit-linear-gradient(left, #00F2FF, white, #00F2FF); /* For Safari 5.1 to 6.0 */
 	border: 2px solid white;
 	width: auto;
 	height: auto;
