@@ -12,3 +12,5 @@ Integrantes:
 --Javier Cotto #19324
 
 --Jose Gutierrez #19111
+
+--Carlos Raxtim #19721
