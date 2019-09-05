@@ -1,0 +1,10 @@
+body{
+	margin-top: 10px;
+	padding: 5px;
+	font-family: sans-serif;
+	background: lightgreen;
+	border: 2px solid white;
+	width: auto;
+	height: auto;
+	text-align: center;
+}
