@@ -8,3 +8,5 @@ Integrantes:
 --Walter Saldaña #19897
 
 --Juan Marroquín #19845
+
+--Javier Cotto #19324
